@@ -1,0 +1,72 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1016/j.ejpoleco.2011.06.002",
+            "abstract": "This study presents a simple empirical framework suitable for describing individuals’ subjective evaluations of wage inequality and their normative assessment of market justice. The framework is illustrated using survey data from the International Social Survey Program from Switzerland. Although most individuals accept the fact that there are quite large pay differentials across different occupations, they would still prefer a more equal distribution of market wages. The empirical analysis further shows that financial self-interest, normative beliefs, and perceptions of how wages are determined all have an impact on the assessment of market justice. Finally, subjective inequality measures and the assessment of market justice turn out to be substantive predictors of individuals’ general support for the welfare state and their party identification.",
+            "annote": "MAG ID: 1987904036",
+            "author": [
+                {
+                    "literal": "Andreas Kühn"
+                },
+                {
+                    "family": "Kuhn",
+                    "given": "Andreas"
+                }
+            ],
+            "container-title": "European Journal of Political Economy",
+            "id": "andreaskuhnEyeBeholderSubjective2011",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011,
+                        12
+                    ]
+                ]
+            },
+            "page": "625-641",
+            "title": "In the eye of the beholder: Subjective inequality measures and individuals’ assessment of market justice",
+            "title-short": "In the eye of the beholder",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "DOI": "10.1093/ser/mwy051",
+            "ISSN": "1475-1461, 1475-147X",
+            "abstract": "Abstract Inequality is on the rise: gains have been concentrated with a small elite, while most have seen their fortunes stagnate or fall. Despite what scholars and journalists consider a worrying trend, there is no evidence of growing popular concern about inequality. In fact, research suggests that citizens in unequal societies are less concerned than those in more egalitarian societies. How to make sense of this paradox? I argue that citizens’ consent to inequality is explained by their growing conviction that societal success is reflective of a meritocratic process. Drawing on 25 years of International Social Survey Program data, I show that rising inequality is legitimated by the popular belief that the income gap is meritocratically deserved: the more unequal a society, the more likely its citizens are to explain success in meritocratic terms, and the less important they deem nonmeritocratic factors such as a person’s family wealth and connections.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        3,
+                        19
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Mijs",
+                    "given": "Jonathan J B"
+                }
+            ],
+            "container-title": "Socio-Economic Review",
+            "id": "mijsParadoxInequalityIncome2021",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        7
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "7-35",
+            "title": "The paradox of inequality: Income inequality and belief in meritocracy go hand in hand",
+            "title-short": "The paradox of inequality",
+            "type": "article-journal",
+            "volume": "19"
+        }
+    ],
+    "project_biblios": []
+}
