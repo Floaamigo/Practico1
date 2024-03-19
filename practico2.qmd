@@ -1,14 +1,14 @@
 ---
-title: "Untitled"
+title: "Practico 2"
 format: html
 editor: visual
 bibliography: percepcion-desigualdad.bib
 link-citations: true
 ---
 
-## Practico 2
+## Introducción
 
-Por: Florencia Amigo
+*Por: Florencia Amigo*
 
 Según [@mijsParadoxInequalityIncome2021] es posible entender el fenómeno social que se da en x
 
